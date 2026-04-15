@@ -9,7 +9,7 @@
 
 ## 💫 About Me:
 - 📱 I build mobile apps with **Kotlin & Jetpack Compose**  
-- 🌐 Exploring web development (React, TypeScript)  
+- 🌐 I build websites as well(React, TypeScript)  
 - 🎯 Focused on creating smooth and clean user experiences  
 - 🚀 Turning ideas into real products  
 
